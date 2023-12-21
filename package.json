@@ -1,0 +1,18 @@
+{
+  "name": "04-tareas-hacer",
+  "version": "1.0.0",
+  "description": "Iniciar el package.json\r ```\r npm init -y\r ```",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "inquirer": "^9.2.12",
+    "uuid": "^9.0.1"
+  }
+}
